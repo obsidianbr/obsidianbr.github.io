@@ -11,7 +11,7 @@ html, html[data-theme="light"] {
     --color-bis: #363636;
     --text-main: #18181C;
     --text-sub: #5D5D67;
-    --link: #2380ED;
+    --link: rgb(72, 54, 153);
     --border: #E5E5E5;
 }
 
@@ -21,7 +21,7 @@ html[data-theme="dark"] {
     --color-bis: #E6E6E6;
     --text-main: #FAFAFC;
     --text-sub: #FFFFFF;
-    --link: #6D9EFF;
+    --link: rgb(72, 54, 153);
     --border: #353535;
 }
 
