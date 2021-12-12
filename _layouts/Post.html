@@ -111,6 +111,7 @@
                                 </a>
                             </div>
                         <h1>{{page.title}}</h1>
+                        Atualizado em: {{ note_items.date | remove: " 00:00:00 +0000" }}
                         {%- include Content.html -%}
                         {%- include Backlinks.html -%}
                         </div>
