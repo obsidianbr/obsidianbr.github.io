@@ -20,5 +20,7 @@ tags: {escolha a tag apropriada das opções abaixo}
 ```
 
 #### Tags
-- #plugin
-- #tema
+- #core refere-se a configurações e temas do Obsidian básico.
+- #plugin refere-se a plugins da comunidade.
+- #tema refere-se a temas feitos pela comunidade.
+- #snippet refere-se a CSS snippets.
