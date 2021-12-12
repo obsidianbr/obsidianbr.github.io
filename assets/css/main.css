@@ -3521,7 +3521,7 @@ a.navbar-item,
 .columns {
   margin-left: -0.75rem;
   margin-right: -0.75rem;
-  margin-top: -0.75rem; }
+  margin-top: 2rem; }
   .columns:last-child {
     margin-bottom: -0.75rem; }
   .columns:not(:last-child) {
@@ -3889,8 +3889,7 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 2rem 3rem;
-      margin-top: 2rem} 
+      padding: 2rem 3rem;} 
   .note-cards .content {
     width: 90%; }
     }
