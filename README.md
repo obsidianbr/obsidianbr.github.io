@@ -8,6 +8,17 @@ Novos artigos devem ser criados na pasta <b>obsidianbr.github.io/_notes/Public/<
 
 <img src="https://github.com/obsidianbr/obsidianbr.github.io/blob/main/assets/img/Screen%20Shot%202021-12-12%20at%2019.52.54.png?raw=true">
 
+Todos os artigos devem começar com o seguinte modelo:
+
+```
+---
+title : {título}
+notetype : feed
+date : {data}
+tags: {escolha a tag apropriada das opções abaixo}
+---
+```
+
 #### Tags
 - #plugin
 - #tema
