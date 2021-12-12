@@ -1912,7 +1912,9 @@ a.tag:hover {
 
 .navbar {
   min-height: 3.25rem;
-  position: relative;
+  position: fixed;
+  background-color: var(--bg-main);
+  width:100%;
   z-index: 30; }
   .navbar.is-white {
     background-color: var(--bg-main);
@@ -3887,9 +3889,10 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 3rem 8rem; } 
+      padding: 2rem 3rem;
+      margin-top: 2rem} 
   .note-cards .content {
-    width: 88%; }
+    width: 90%; }
     }
 
 @media screen and (min-width: 769px), print {
