@@ -4,4 +4,11 @@ notetype : unfeed
 date : 12-12-2021
 ---
 
-Inserir aqui navegação.
+#### Configurações
+
+#### Temas
+
+#### Plugins Básicos
+
+#### Plugins da Comunidade
+
