@@ -31,7 +31,7 @@ url: "https://obsidianbr.github.io/" # the base hostname & protocol for your sit
 heading: ObsidianBR
 copyright:  
   year: 2021
-  msg: lkadre # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  msg: ObsidianBR # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
 #####################################################################
