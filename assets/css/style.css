@@ -380,7 +380,21 @@ hr {
 .datepill {
   background-color: var(--bg-sub);
   border: none;
-  color: white;
+  color: var(--text-main);
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+
+.tagpill {
+  background-color: var(--bg-sub);
+  border: none;
+  color: var(--link);
   font-size: 11px;
   padding: 1px 8px;
   text-align: center;
