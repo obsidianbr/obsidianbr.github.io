@@ -24,3 +24,4 @@ tags: {escolha a tag apropriada das opções abaixo}
 - **#plugin** refere-se a plugins da comunidade.
 - **#tema** refere-se a temas feitos pela comunidade.
 - **#snippet** refere-se a CSS snippets.
+- **#blog** refere-se a posts de blog.
