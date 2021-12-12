@@ -4,7 +4,6 @@ notetype : feed
 date : 12-12-2021
 tags: plugin
 alias: Templater
-author: lkadre
 ---
 
 - [Link para o Github](https://github.com/SilentVoid13/Templater)
