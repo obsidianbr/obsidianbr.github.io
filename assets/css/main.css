@@ -3897,7 +3897,7 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .for-back-home {
     position: absolute;
-    left: 0.7rem; } }
+    left: -1rem; } }
 
 .tag:not(body) {
   padding-left: 1em;
