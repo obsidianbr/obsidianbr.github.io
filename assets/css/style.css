@@ -377,6 +377,21 @@ hr {
 
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
 
+.datepill {
+  background-color: var(--bg-sub);
+  border: none;
+  color: white;
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+
+
 .site-heading-rtl {
     border-bottom: 2px solid var(--primary-border-color);
     display: flex;
