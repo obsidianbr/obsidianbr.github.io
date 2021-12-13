@@ -5,6 +5,8 @@ date : 13-12-2021
 tags: 
 ---
 
+- [[Glossário]]
+
 #### Configurações
 - [[Editor]]
 - [[Ficheiros e Links]]
