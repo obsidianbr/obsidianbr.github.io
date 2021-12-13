@@ -630,7 +630,7 @@ hr {
 
 
 #markdown-toc::before {
-    content: "Contents";
+    content: "Conteúdo";
     font-weight: bold;
     text-align: center;
 }
@@ -652,6 +652,7 @@ hr {
     background: var(--bg-sub);
     width: 100%;
     margin: 0;
+    font-size: small
 }
 
 #markdown-toc a {
