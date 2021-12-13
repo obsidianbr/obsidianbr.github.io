@@ -1,9 +1,8 @@
 ---
-title : 'Plugin: Templater'
+title : Templater
 notetype : feed
 date : 12-12-2021
 tags: plugin
-alias: Templater
 ---
 
 - [Link para o Github](https://github.com/SilentVoid13/Templater)
