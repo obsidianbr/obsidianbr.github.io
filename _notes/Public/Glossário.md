@@ -13,53 +13,112 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 {:toc}
 
 ### A
+
+
+
 ### B
+
 ### C
 
-- CSS:
-- CSS Snippet:
+- Catalyst: uma licença paga que dá acesso a versões *beta* do aplicativo, bem como canais exclusivos do Discord. Tem três níveis: insider, supporter e VIP.
+- CSS: linguagem de programação que altera a estética, geralmente usado conjuntamente com HTML.
+- CSS Snippet: um arquivo em formato `.css` que altera a estética.
 
 ### D
+
+- [[Dataview]]: plugin da comunidade
+
 ### E
+
+
+
 ### F
+
+
+
 ### G
+
+- Github: plataforma muito utilizada por desenvolvedores para publicação de código e conteúdo.
+
 ### H
+
+- HTML: linguagem em que são publicados os conteúdos de um site, geralmente estilizado por CSS.
+
 ### I
+
+- Insider: nível mais barato das licenças *catalyst*.
+
 ### J
 
-- Javascript:
+- Javascript: linguagem de programação muito usada em plugins.
 
 ### K
+
+
+
 ### L
 
 - Licat: Licat é desenvolvedor do Obsidian, junto com a Silver.
 
 ### M
+
+- Markdown: linguagem de texto usada para formatação, por exemplo, `**negrito**` e `*itálico*`.
+- Mobile: versão "móvel" do aplicativo, usada em celulares, tablets, etc.
+
 ### N
+
+
+
 ### O
 
-- Obsidian:
-- ObsidianBR:
+- Obsidian: aplicativo.
+- ObsidianBR: centro *open-source* para recursos em português sobre o Obsidian.
 
 ### P
 
-- Plugin:
+- Plugin: extensão ao aplicativo básico do Obsidian.
+- Plugin da comunidade: extensão ao aplicativo básico feito pela comunidade e, no geral, hospedado no Github (de modo a ser *open-source*). 
+- Publish: serviço oficial adicional, pago, pelo qual o Obsidian publica as suas notas como um website.
 
 ### Q
+
+
+
 ### R
+
+
+
 ### S
 
 - Silver: Silver é desenvolvedora do Obsidian, junto com o Licat.
-- Snippet:
+- Snippet: vide *CSS Snippet*.
+- Supporter: nível médio das licenças *catalyst*.
+- Sync: serviço adicional, pago, pelo qual o Obsidian sincroniza as suas notas entre diferentes dispositivos.
 
 ### T
 
-- Tema:
+- Tema: estética do aplicativo, podendo ser o básico ou uma alternativa feita pela comunidade.
+- [[Templater]]: plugin da comunidade
 - Theme: vide *Tema*.
 
 ### U
+
+
+
 ### V
+
+- VIP: nível mais caro das licenças *catalyst*.
+
 ### W
+
+
+
 ### X
+
+
+
 ### Y
+
+
+
 ### Z
