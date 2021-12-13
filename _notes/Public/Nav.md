@@ -19,7 +19,7 @@ tags:
 #### Temas
 - [[California Coast]]
 - [[Minimal]]
-- [[Sanctum]
+- [[Sanctum]]
 - [[Yin and Yang]]]
 
 #### Plugins
