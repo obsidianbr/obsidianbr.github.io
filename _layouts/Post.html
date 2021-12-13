@@ -78,12 +78,12 @@
                             {%- include Homepage.html -%}
                             <script src="/assets/js/modeswitcher.js"></script>
                     {%- else -%}
-                    <div class="columns is-half">
                             <!--- Show Feed Part -->
+                    <div class="column is-half">
                             {%- include FeedContent.html -%}
-                            {%- include Feed.html -%}          
-                            {%- include Footer.html -%}   
-                                                </div>
+                            {%- include Feed.html -%}
+                            {%- include Footer.html -%}             
+                </div>
                     {%- endif -%}
             {%- endif -%}
 
