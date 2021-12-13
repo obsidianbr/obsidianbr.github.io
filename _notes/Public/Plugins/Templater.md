@@ -1,7 +1,8 @@
 ---
-title : Templater
-notetype : feed
-date : 12-12-2021
+title: Templater
+publish: true
+notetype: feed
+date: 12-12-2021
 tags: plugin
 ---
 
