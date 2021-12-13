@@ -1,7 +1,8 @@
 ---
-title : Dataview
-notetype : feed
-date : 12-12-2021
+title: Dataview
+publish: true
+notetype: feed
+date: 12-12-2021
 tags: plugin
 ---
 
