@@ -1852,12 +1852,6 @@ a.tag:hover {
   .textarea.has-fixed-size {
     resize: none; }
 
-.cardwrapper{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px; 
-}
-
 .card {
   background-color: var(--bg-main);
   box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
@@ -1918,9 +1912,7 @@ a.tag:hover {
 
 .navbar {
   min-height: 3.25rem;
-  position: fixed;
-  background-color: var(--bg-main);
-  width:100%;
+  position: relative;
   z-index: 30; }
   .navbar.is-white {
     background-color: var(--bg-main);
@@ -3527,7 +3519,7 @@ a.navbar-item,
 .columns {
   margin-left: -0.75rem;
   margin-right: -0.75rem;
-  margin-top: 2rem; }
+  margin-top: -0.75rem; }
   .columns:last-child {
     margin-bottom: -0.75rem; }
   .columns:not(:last-child) {
@@ -3895,15 +3887,15 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 2rem 3rem;} 
+      padding: 3rem 8rem; } 
   .note-cards .content {
-    width: 90%; }
+    width: 88%; }
     }
 
 @media screen and (min-width: 769px), print {
   .for-back-home {
     position: absolute;
-    left: -1rem; } }
+    left: 0.7rem; } }
 
 .tag:not(body) {
   padding-left: 1em;
