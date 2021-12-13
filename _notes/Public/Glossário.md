@@ -1,7 +1,8 @@
 ---
-title : Glossário
-notetype : feed
-date : 13-12-2021
+title: Glossário
+publish: true
+notetype: feed
+date: 13-12-2021
 tags: 
 ---
 
