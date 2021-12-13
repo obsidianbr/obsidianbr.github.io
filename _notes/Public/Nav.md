@@ -12,7 +12,10 @@ tags:
 
 
 #### Temas
-
+- [[California Coast]]
+- [[Minimal]]
+- [[Sanctum]
+- [[Yin and Yang]]]
 
 #### Plugins
 - [[Advanced Tables]]
