@@ -1,7 +1,7 @@
 ---
 title: Nav
 publish: true
-notetype: feed
+notetype: unfeed
 date: 13-12-2021
 tags: 
 ---
