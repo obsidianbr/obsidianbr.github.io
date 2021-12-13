@@ -6,7 +6,12 @@ tags:
 ---
 
 #### Configurações
-
+- [[Editor]]
+- [[Ficheiros e Links]]
+- [[Aparência]]
+- [[Atalhos]]
+- [[Conta]]
+- [[Plugins Base]]
 
 #### Core
 
