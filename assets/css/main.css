@@ -3553,10 +3553,10 @@ a.navbar-item,
     align-items: center; }
   @media screen and (min-width: 769px), print {
     .columns:not(.is-desktop) {
-      display: flex; } }
+      display: inline-block; } }
   @media screen and (min-width: 1024px) {
     .columns.is-desktop {
-      display: flex; } }
+      display: inline-block; } }
 
 .columns.is-variable {
   --columnGap: 0.75rem;
