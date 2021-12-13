@@ -1852,6 +1852,12 @@ a.tag:hover {
   .textarea.has-fixed-size {
     resize: none; }
 
+.cardwrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px; 
+}
+
 .card {
   background-color: var(--bg-main);
   box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
