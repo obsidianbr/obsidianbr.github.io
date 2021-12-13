@@ -72,8 +72,9 @@
           Obsidian.md
         </a>
           {%- if site.preferences.search.enabled -%}
-
-<!-- search bar -->
+      </div>
+        
+        <!-- search bar -->
 <div class="block">
     <input class="input is-medium" type="text" placeholder="Buscar.." id="search-input" autocomplete="off">
     <div id="search-results" class="search-results"></div>
@@ -81,7 +82,7 @@
 <script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
 <script src="/assets/js/Search.js"></script>
 {%- endif -%}
-      </div>
+        
       <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()" >
         <div class="navbar-item">
           <div class="buttons">
