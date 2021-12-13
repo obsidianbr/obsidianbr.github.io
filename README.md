@@ -12,9 +12,10 @@ Todos os artigos devem começar com o seguinte modelo:
 
 ```
 ---
-title : {título}
-notetype : feed
-date : {data}
+title: {título}
+publish: true
+notetype: feed
+date: {data}
 tags: {escolha a tag apropriada das opções abaixo}
 ---
 ```
