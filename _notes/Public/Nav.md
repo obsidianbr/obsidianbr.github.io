@@ -13,9 +13,6 @@ tags:
 - [[Conta]]
 - [[Plugins Base]]
 
-#### Core
-
-
 #### Temas
 - [[California Coast]]
 - [[Minimal]]
