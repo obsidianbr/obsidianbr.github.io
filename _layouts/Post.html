@@ -91,7 +91,7 @@
 
             {%- if page.content-type == "notes" 
             or page.content-type == "post"  -%}
-                <div class="column is-three-quarters">
+                <div class="column is-two-thirds">
                     <main>
                         <div class="note-page-section">
                             <div class="buttons for-back-home">
@@ -126,7 +126,7 @@
             <!--- CASE 3 : Static Page -->
 
             {%- if page.content-type == "eg" -%}
-                <div class="column is-three-quarters">
+                <div class="column is-two-thirds">
                     <main>
                         <h1>{{page.title}}</h1>
                         {%- include Content.html -%}
@@ -139,7 +139,7 @@
             <!--- CASE 4 :  Blog Listing page -->   
 
             {%- if page.permalink == "/posts" -%}
-                <div class="column is-three-quarters">
+                <div class="column is-two-thirds">
                     <h1>{{page.title}}</h1>
                     <div class="block">
                         {% for item in site.posts %}
@@ -164,7 +164,7 @@
             <!--- CASE 5 :  Notes Listing page -->   
 
             {%- if page.permalink == "/notes" -%}
-                <div class="column is-three-quarters">
+                <div class="column is-two-thirds">
                     {%- include FeedContent.html -%}
                     {%- include Feed.html -%}
                     {%- include Footer.html -%}             
