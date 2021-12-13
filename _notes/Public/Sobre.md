@@ -1,7 +1,9 @@
 ---
 title : Sobre
+publish: true
 notetype : unfeed
 date : 12-12-2021
+tags: obsidianbr
 ---
 
 A <b>ObsidianBR</b> surgiu a partir de uma inquietação sobre a falta de recursos na língua portuguesa sobre o aplicativo Obsidian. Lançado em Março de 2020, Obsidian rapidamente desenvolveu uma comunidade extremamente ativa e convidativa, gerando possibilidades muito além das funcionalidades básicas do aplicativo. 
