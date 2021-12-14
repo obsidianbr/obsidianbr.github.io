@@ -6,7 +6,6 @@ date: 12-12-2021
 tags: plugin
 ---
 
-# Introdução
 Dataview é um dos mais úteis e populares plugins do Obsidian, ele é capaz de transformar a base de notas criadas pelo usuário em um verdadeiro banco de dados. Possui uma 2 formas básicas de trabalho, sendo uma primeira mais simples baseado em consultas SQL comuns e uma segunda forma através de uma robusta API Javascript.
 
 # Links Úteis
@@ -15,7 +14,7 @@ Dataview é um dos mais úteis e populares plugins do Obsidian, ele é capaz de 
 - [Documentação oficial (em Inglês)](https://blacksmithgu.github.io/obsidian-dataview/)
 - [Forum oficial do Obsidian com exemplos de uso do Dataview (em Inglês)](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/)
 - [Forum oficial do Obsidian com exemplos de uso do DataviewJS  (em Inglês)](https://forum.obsidian.md/t/dataviewjs-snippet-showcase)
-- [ (em Inglês)]()`
+
 
 # Dataview
 Para o uso do dataview dentro de uma nota no Obsidian, deve-se obedecer a seguinte sintaxe:
@@ -31,7 +30,8 @@ Importante que o código da pesquisa desejada esteja dentro de um cloco de códi
 
 ## Exemplos
 
-Lista todas as notas que contenham as tags games/mobas ou games/crpg
+Lista todas as notas que contenham as **tags** games/mobas ou games/crpg:
+
 ```dataview
 LIST FROM #games/mobas OR #games/crpg
 ```

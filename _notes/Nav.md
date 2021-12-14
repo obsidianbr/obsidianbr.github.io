@@ -20,7 +20,7 @@ tags:
 - [[California Coast]]
 - [[Minimal]]
 - [[Sanctum]]
-- [[Yin and Yang]]]
+- [[Yin and Yang]]
 
 #### Plugins
 - [[Advanced Tables]]
