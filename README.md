@@ -1,4 +1,4 @@
-<a href="https://obsidianbr.github.io">ObsidianBR</a> é uma iniciativa de divulgação de recursos em língua portuguesa sobre o aplicativo Obsidian.
+A ObsidianBR é uma iniciativa de divulgação de recursos em língua portuguesa sobre o aplicativo Obsidian. Ela está disponível em versão <a href="https://obsidianbr.github.io">Jekyll</a> (publicada via Github) e também <a href="https://publish.obsidian.md/obsidianbr">Publish</a> (publicado pelo serviço oficial do Obsidian. O conteúdo é o mesmo, só muda a apresentação!
 
 ### Como contribuir
 
