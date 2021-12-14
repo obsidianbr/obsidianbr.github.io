@@ -6,7 +6,7 @@ date: 13-12-2021
 tags: 
 ---
 
-Esta é uma iniciativa _open-source_ sobre o aplicativo [Obsidian](https://obsidian.md/).
+A [[ObsidianBR]] é uma iniciativa _open-source_ sobre o aplicativo [Obsidian](https://obsidian.md/).
 
 - #obsidianbr 
 - #core 
