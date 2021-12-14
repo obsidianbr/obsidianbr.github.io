@@ -4,3 +4,10 @@ notetype : feed
 date : 13-12-2021
 tags: tema
 ---
+
+- Autor: @kepano
+- [Github](https://github.com/kepano/obsidian-minimal)
+
+Minimal é o tema da comunidade com mais downloads.
+
+[![](https://github.com/kepano/obsidian-minimal/raw/master/cover.png)](https://github.com/kepano/obsidian-minimal/blob/master/cover.png)
