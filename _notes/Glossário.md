@@ -19,6 +19,8 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### B
 
+
+
 ### C
 
 - Catalyst: uma licença paga que dá acesso a versões *beta* do aplicativo, bem como canais exclusivos do Discord. Tem três níveis: insider, supporter e VIP.
@@ -27,7 +29,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### D
 
-- [[Dataview]]: plugin da comunidade
+- [[Dataview]]: plugin da comunidade.
 
 ### E
 
@@ -44,6 +46,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 ### H
 
 - HTML: linguagem em que são publicados os conteúdos de um site, geralmente estilizado por CSS.
+- Hub: vide *Obsidian Hub*.
 
 ### I
 
@@ -73,7 +76,8 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 ### O
 
 - Obsidian: aplicativo.
-- ObsidianBR: centro *open-source* para recursos em português sobre o Obsidian.
+- [[ObsidianBR]]: centro *open-source* e coletivo para recursos em português sobre o Obsidian.
+- [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here): centro *open-source* e coletivo para recursos *em inglês* sobre o Obsidian (obrigada pela inspiração!).
 
 ### P
 
