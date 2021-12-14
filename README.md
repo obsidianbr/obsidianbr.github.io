@@ -4,7 +4,7 @@ A ObsidianBR é uma iniciativa de divulgação de recursos em língua portuguesa
 
 Você pode contribuir para o projeto fazendo um <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">Pull Request</a>. <b>Não é necessária a instalação de nenhum programa</b>, é possível contribuir direto do seu navegador.
 
-Os artigos/posts se encontram na pasta <b>obsidianbr.github.io/_notes/Public/</b>. Quando atualizando um arquivo, mude o campo <b>date</b>. Novos artigos devem ser criados nesta pasta conforme o screenshot:
+Os artigos/posts se encontram na pasta <b>obsidianbr.github.io/_notes/</b>. Quando atualizando um arquivo, mude o campo <b>date</b>. Novos artigos devem ser criados nesta pasta conforme o screenshot:
 
 <img src="https://github.com/obsidianbr/obsidianbr.github.io/blob/main/assets/img/Screen%20Shot%202021-12-12%20at%2019.52.54.png?raw=true">
 
