@@ -12,5 +12,4 @@ No entanto, embora o app em si esteja disponível em português, o mesmo não é
 
 Honrando o espírito de comunidade e colaboração, o site é completamente open-source, com o código disponível no <a href="https://github.com/obsidianbr/obsidianbr.github.io">Github</a>. 
 
-Na versão Jekyll, o tema usado é <a href="https://jekyll-garden.github.io/index.html">Jekyll Garden</a>. Na versão Publish, o tema usado é o padrão do Obsidian, com algumas customizações.
-
+Na versão Jekyll, o tema usado é <a href="https://jekyll-garden.github.io/index.html">Jekyll Garden</a>. Na versão Publish, o tema usado é o [[Sanctum]], com algumas customizações.

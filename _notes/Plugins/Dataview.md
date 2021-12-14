@@ -19,7 +19,8 @@ Dataview é um dos mais úteis e populares plugins do Obsidian, ele é capaz de 
 # Dataview
 Para o uso do dataview dentro de uma nota no Obsidian, deve-se obedecer a seguinte sintaxe:
 
-```dataview
+```
+dataview
 TABLE|LIST|TASK <field> [AS "Column Name"], <field>, ..., <field> FROM <source> (like #tag or "folder")
 WHERE <expression> (like 'field = value')
 SORT <expression> [ASC/DESC] (like 'field ASC')
@@ -32,7 +33,8 @@ Importante que o código da pesquisa desejada esteja dentro de um cloco de códi
 
 Lista todas as notas que contenham as **tags** games/mobas ou games/crpg:
 
-```dataview
+```
+dataview
 LIST FROM #games/mobas OR #games/crpg
 ```
 
