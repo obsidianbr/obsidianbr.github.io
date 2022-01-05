@@ -6,8 +6,8 @@ date : 13-12-2021
 tags: tema
 ---
 
-- [i] [i] Autor: @mgmeyers
-- [i] [i] [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
+- [i] Autor: @mgmeyers
+- [i] [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
 
 Tema no estilo Big Sur (Mac).
 
