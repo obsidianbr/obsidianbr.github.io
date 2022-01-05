@@ -2,14 +2,14 @@
 title: Admonition
 publish: true
 notetype: feed
+cssclass: admonitions
 date: 05-01-2022
 tags: plugin
 ---
 
 > Adiciona um bloco personalizado de conteúdo estilizado ao estilo [Material for MKDOCS](https://cutt.ly/aUXAzRZ)
 
-
-[Github](https://github.com/valentine195/obsidian-admonition) 
+- [b] [Github](https://github.com/valentine195/obsidian-admonition) 
 
 # Sintaxe
 Adicione um bloco de código com o tipo `ad-TIPO_DESEJADO` após isso alguns parâmetros podem ser determinados:

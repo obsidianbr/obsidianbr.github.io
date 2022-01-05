@@ -24,6 +24,8 @@ tags: básico
 ##### Notas diárias
 
 ##### Templates
+[Original](https://help.obsidian.md/Plugins/Templates)
+
 
 ##### Note composer
 

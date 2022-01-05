@@ -1,12 +1,13 @@
 ---
 title : Primary
 notetype : feed
+cssclass: admonitions
 date : 13-12-2021
 tags: tema
 ---
 
-- Autor: @ceciliamay
-- [Github](https://github.com/ceciliamay/obsidianmd-theme-primary)
+- [i] Autor: @ceciliamay
+- [i] [Github](https://github.com/ceciliamay/obsidianmd-theme-primary)
 
 Tema vencedor do "Obsidian October 2021"!
 

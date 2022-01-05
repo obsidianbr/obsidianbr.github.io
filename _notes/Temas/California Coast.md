@@ -1,12 +1,13 @@
 ---
 title : Minimal
 notetype : feed
+cssclass: admonitions
 date : 13-12-2021
 tags: tema
 ---
 
-- Autor: @mgmeyers
-- [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
+- [i] [i] Autor: @mgmeyers
+- [i] [i] [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
 
 Tema no estilo Big Sur (Mac).
 

@@ -1,12 +1,13 @@
 ---
 title : Minimal
 notetype : feed
+cssclass: admonitions
 date : 13-12-2021
 tags: tema
 ---
 
-- Autor: @kepano
-- [Github](https://github.com/kepano/obsidian-minimal)
+- [i] Autor: @kepano
+- [i] [Github](https://github.com/kepano/obsidian-minimal)
 
 Minimal é o tema da comunidade com mais downloads.
 

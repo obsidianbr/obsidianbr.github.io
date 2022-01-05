@@ -10,8 +10,6 @@ Este é um guia de termos e traduções para o aplicativo. Ele é mantido em ord
 
 Obs: como as traduções são feitas pela comunidade, eventualmente elas podem estar incompletas ou inconsistentes.
 
-* TOC
-{:toc}
 
 ### A
 
