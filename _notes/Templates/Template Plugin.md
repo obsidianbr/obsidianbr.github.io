@@ -12,5 +12,5 @@ tags: plugin
 - [b] [Github]({{link para a página do Github}})
 - [b] outros links úteis
 
-# {{title}}
+
 

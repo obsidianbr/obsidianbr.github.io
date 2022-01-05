@@ -9,5 +9,3 @@ tags: blog
 
 - [i] Artigo escrito por {{pessoa}} em {{data}}.
 
-# {{title}}
-
