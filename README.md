@@ -2,11 +2,15 @@ A ObsidianBR é uma iniciativa de divulgação de recursos em língua portuguesa
 
 ### Como contribuir
 
-Você pode contribuir para o projeto fazendo um <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">Pull Request</a>. <b>Não é necessária a instalação de nenhum programa</b>, é possível contribuir direto do seu navegador.
+Qualquer contribuição é muito bem vinda!
+
+Você pode contribuir para o projeto fazendo um <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">Pull Request</a>. <b>Não é necessária a instalação de nenhum programa</b>, é possível contribuir direto do seu navegador. Se você já é familiarizado com git e o Github, pode fazer contribuições normalmente.
 
 Os artigos/posts se encontram na pasta <b>obsidianbr.github.io/_notes/</b>. Quando atualizando um arquivo, mude o campo <b>date</b>. Novos artigos devem ser criados nesta pasta conforme o screenshot:
 
 <img src="https://github.com/obsidianbr/obsidianbr.github.io/blob/main/assets/img/Screen%20Shot%202021-12-12%20at%2019.52.54.png?raw=true">
+
+Note que existem diferentes pastas dentro da pasta principal. Sempre coloque a nova nota dentro da pasta correta (Básico, Plugins, Temas, etc).
 
 Todos os artigos devem começar com o seguinte modelo:
 
@@ -21,8 +25,10 @@ tags: {escolha a tag apropriada das opções abaixo}
 ```
 
 #### Tags
-- **#core** refere-se a configurações e temas do Obsidian básico.
-- **#plugin** refere-se a plugins da comunidade.
-- **#tema** refere-se a temas feitos pela comunidade.
-- **#snippet** refere-se a CSS snippets.
-- **#blog** refere-se a posts de blog.
+- #obsidianbr 
+- #básico
+- #tema 
+- #plugin 
+- #guia
+- #blog
+- #extras
