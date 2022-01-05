@@ -7,7 +7,7 @@ tags: tema
 ---
 
 - [i] Autor: @ceciliamay
-- [i] [Github](https://github.com/ceciliamay/obsidianmd-theme-primary)
+- [b] [Github](https://github.com/ceciliamay/obsidianmd-theme-primary)
 
 Tema vencedor do "Obsidian October 2021"!
 

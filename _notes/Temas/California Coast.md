@@ -7,7 +7,7 @@ tags: tema
 ---
 
 - [i] Autor: @mgmeyers
-- [i] [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
+- [b] [Github](https://github.com/mgmeyers/obsidian-california-coast-theme)
 
 Tema no estilo Big Sur (Mac).
 

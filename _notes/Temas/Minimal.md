@@ -7,7 +7,7 @@ tags: tema
 ---
 
 - [i] Autor: @kepano
-- [i] [Github](https://github.com/kepano/obsidian-minimal)
+- [b] [Github](https://github.com/kepano/obsidian-minimal)
 
 Minimal é o tema da comunidade com mais downloads.
 
