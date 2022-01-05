@@ -13,8 +13,9 @@ Se você é novo aqui, talvez seja interessante ver o nosso [[Glossário]] e o n
 Navegue pelo conteúdo pelo menu ao lado, ou pelas nossas tags:
 
 - #obsidianbr 
-- #core 
+- #básico
 - #tema 
 - #plugin 
 - #guia
 - #blog
+- #extras

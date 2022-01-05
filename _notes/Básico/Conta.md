@@ -2,7 +2,7 @@
 title : Conta
 notetype : feed
 date : 13-12-2021
-tags: core
+tags: básico
 ---
 
 Uma das abas nas configurações é a **Conta**. Você não precisa de uma conta para usar o Obsidian, mas ela é necessária se você quiser algum dos serviços pagos:

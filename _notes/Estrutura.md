@@ -9,8 +9,9 @@ tags:
 As notas do ObsidianBR é dividido nas seguintes pastas:
 
 - Anexos
+- Básico
 - Blog
-- Core
+- Extras
 - FAQ
 - Guias
 - Plugins

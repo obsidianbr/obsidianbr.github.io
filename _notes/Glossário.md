@@ -15,17 +15,18 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### A
 
-
+- [[Admonition]]: literalmente, "admonition" se refere ao ato de chamar atenção. No Obsidian, existe um plugin da comunidade com esse nome que cria caixas de atenção para um certo texto.
 
 ### B
 
-
+- Básico: refere-se ao Obsidian básico, sem nenhum plugin ou tema da comunidade. 
 
 ### C
 
 - Catalyst: uma licença paga que dá acesso a versões *beta* do aplicativo, bem como canais exclusivos do Discord. Tem três níveis: insider, supporter e VIP.
+- Core: vide *Básico*.
 - CSS: linguagem de programação que altera a estética, geralmente usado conjuntamente com HTML.
-- CSS Snippet: um arquivo em formato `.css` que altera a estética.
+- CSS Snippet: vide *Fragmento de CSS*.
 
 ### D
 
@@ -37,7 +38,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### F
 
-
+- Fragmento de CSS: um arquivo em formato `.css` que altera a estética de algo específico, não sendo tão abrangente quanto um Tema.
 
 ### G
 
@@ -68,6 +69,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 - Markdown: linguagem de texto usada para formatação, por exemplo, `**negrito**` e `*itálico*`.
 - Mobile: versão "móvel" do aplicativo, usada em celulares, tablets, etc.
+- Moderador: os moderadores da comunidade Obsidian no Discord e no fórum. Eles são voluntários e apenas moderam os posts e mensagens, sem ter relação com o desenvolvimento do Obsidian em si.
 
 ### N
 
@@ -82,6 +84,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 ### P
 
 - Plugin: extensão ao aplicativo básico do Obsidian.
+- [[Plugins Básicos]]: são extensões que já vem com o Obsidian básico, que você pode ativar ou desativar nas configurações.
 - Plugin da comunidade: extensão ao aplicativo básico feito pela comunidade e, no geral, hospedado no Github (de modo a ser *open-source*). 
 - Publish: serviço oficial adicional, pago, pelo qual o Obsidian publica as suas notas como um website.
 
@@ -96,7 +99,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 ### S
 
 - Silver: Silver é desenvolvedora do Obsidian, junto com o Licat.
-- Snippet: vide *CSS Snippet*.
+- Snippet: vide *Fragmento de CSS*.
 - Supporter: nível médio das licenças *catalyst*.
 - Sync: serviço adicional, pago, pelo qual o Obsidian sincroniza as suas notas entre diferentes dispositivos.
 
