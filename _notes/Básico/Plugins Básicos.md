@@ -57,4 +57,8 @@ tags: básico
 
 ##### Publicar
 
+Vide: [[Publish]].
+
 ##### Sincronizar
+
+Vide: [[Sync]].

@@ -7,5 +7,7 @@ date: {{date}}
 tags: blog
 ---
 
+%% NÃO EDITAR APÓS PUBLICAÇÃO!! %%
+
 - [i] Artigo escrito por {{pessoa}} em {{data}}.
 
