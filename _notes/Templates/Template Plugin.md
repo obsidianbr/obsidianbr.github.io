@@ -7,6 +7,8 @@ date: 14-01-2022
 tags: plugin
 ---
 
+%% NÃO ESQUEÇA DE MUDAR O title E A date ALI EM CIMA %%
+
 > {{resumo do plugin}}
 
 - [i] Autor: @{{autor do tema conforme usuário do Github}}
