@@ -7,6 +7,8 @@ date: 14-01-2022
 tags: tema
 ---
 
+%% NÃO ESQUEÇA DE MUDAR O title E A date ALI EM CIMA %%
+
 - [i] Autor: @{{autor do tema conforme usuário do Github}}
 - [b] [Github]({{link para a página do Github}})
 
