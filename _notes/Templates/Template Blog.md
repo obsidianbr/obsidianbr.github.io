@@ -7,7 +7,7 @@ date: 14-01-2022
 tags: blog
 ---
 
-%% NÃO ESQUEÇA DE MUDAR O TITLE E A DATE ALI EM CIMA
+%% NÃO ESQUEÇA DE MUDAR O title E A date ALI EM CIMA 
 
 NÃO EDITAR APÓS PUBLICAÇÃO!! %%
 
