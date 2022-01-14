@@ -1,8 +1,8 @@
 ---
-title: {{title}}
+title: 
 publish: true
 notetype: feed
-date: {{date}}
+date: 
 tags: básico
 ---
 
