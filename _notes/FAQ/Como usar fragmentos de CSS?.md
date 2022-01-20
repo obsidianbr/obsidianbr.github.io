@@ -10,7 +10,7 @@ Para usar fragmentos de CSS, você precisa colocar os arquivos em uma pasta espe
 
 ##### Pelas configurações do Obsidian
 
-O jeito mais fácil de acessar a pasta de fragmentos é pela própria configuração do Obsidian. Na pasta [[Aparência]], do lado da parte de "Fragmentos de CSS", você deve ver um ícone de pastinha. Clique neste ícone e a pasta deve aparecer.
+O jeito mais fácil de acessar a pasta de fragmentos é pela própria configuração do Obsidian. Na pasta [[Configurações - Aparência]], do lado da parte de "Fragmentos de CSS", você deve ver um ícone de pastinha. Clique neste ícone e a pasta deve aparecer.
 
 ##### Manualmente
 
@@ -26,4 +26,4 @@ Se você criou um arquivo com o formato diferente, é só renomear de modo que o
 
 ##### Ativando um fragmento
 
-Uma vez que o arquivo esteja dentro da pasta, em formato `.css`, ele deve ser acessível pelo Obsidian! Nas configurações, vá para a aba [[Aparência]] e você deve ver o arquivo. Se não estiver lá, clique para atualizar/recarregar os fragmentos. Agora é só ativar! 
+Uma vez que o arquivo esteja dentro da pasta, em formato `.css`, ele deve ser acessível pelo Obsidian! Nas configurações, vá para a aba [[Configurações - Aparência]] e você deve ver o arquivo. Se não estiver lá, clique para atualizar/recarregar os fragmentos. Agora é só ativar! 

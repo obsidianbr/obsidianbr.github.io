@@ -1,8 +1,9 @@
 ---
-title : Plugins Base
+title : Configurações -Plugins Base
 notetype : feed
 date : 13-12-2021
 tags: básico
+aliases: [Plugins Básicos]
 ---
 
 ##### Explorador de ficheiros

@@ -36,7 +36,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### F
 
-- Fragmento de CSS: um arquivo em formato `.css` que altera a estética de algo específico, não sendo tão abrangente quanto um Tema.
+- Fragmento de CSS: um arquivo em formato `.css` que altera a estética de algo específico, não sendo tão abrangente quanto um Tema. Vide [[Como usar fragmentos de CSS?]]
 
 ### G
 
@@ -62,6 +62,7 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 ### L
 
 - Licat: Licat é desenvolvedor do Obsidian, junto com a Silver.
+-  Live Preview: modo de edição em que o markdown já é processado. Vide [[O que é o Live Preview?]]
 
 ### M
 
@@ -81,8 +82,8 @@ Obs: como as traduções são feitas pela comunidade, eventualmente elas podem e
 
 ### P
 
-- Plugin: extensão ao aplicativo básico do Obsidian.
-- [[Plugins Básicos]]: são extensões que já vem com o Obsidian básico, que você pode ativar ou desativar nas configurações.
+- Plugin: extensão ao aplicativo básico do Obsidian. Vide [[O que são plugins?]]
+- [[Configurações - Plugins Básicos]]: são extensões que já vem com o Obsidian básico, que você pode ativar ou desativar nas configurações.
 - Plugin da comunidade: extensão ao aplicativo básico feito pela comunidade e, no geral, hospedado no Github (de modo a ser *open-source*). 
 - Publish: serviço oficial adicional, pago, pelo qual o Obsidian publica as suas notas como um website.
 
