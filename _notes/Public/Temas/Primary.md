@@ -5,7 +5,6 @@ date : 13-12-2021
 tags: tema
 ---
 
-Tema vencedor do "Obsidian October 2021"
-[Github](https://github.com/ceciliamay/obsidianmd-theme-primary) desenvolvido por Cecilia May.
+Tema vencedor do "Obsidian October 2021" desenvolvido por Cecilia May. [Github](https://github.com/ceciliamay/obsidianmd-theme-primary)
 
 ![Primary](https://raw.githubusercontent.com/ceciliamay/obsidianmd-theme-primary/main/assets/primary-heroimg.png)
