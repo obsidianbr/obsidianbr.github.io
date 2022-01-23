@@ -1,5 +1,6 @@
 ---
 title : LYT Mode
+publish: true
 notetype : feed
 date : 23-01-2022
 tags: tema
