@@ -196,9 +196,7 @@ Imagens podem ser tanto externas ou internas. Caso ela seja externa, você preci
 
 ```
 ![TÍTULO](LINK)
-```
 
-```
 ![[NOME DA IMAGEM]]
 ```
 

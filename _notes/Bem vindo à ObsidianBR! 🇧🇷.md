@@ -1,5 +1,5 @@
 ---
-title: Bem vindo ao ObsidianBR! 🇧🇷
+title: Bem vindo à ObsidianBR! 🇧🇷
 publish: true
 notetype: unfeed
 date: 13-12-2021
