@@ -79,7 +79,7 @@ _E você pode **combinar** os dois!_
 ~~Ou ainda riscar o texto!~~
 ```
 
-Também é possível grifar o texto usando dois sinais de igual. Por exemplo:
+Também é possível grifar o texto usando dois sinais de igual. ==Por exemplo==:
 
 ```
 ==Exemplo de texto marcado.==

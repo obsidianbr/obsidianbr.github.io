@@ -3880,8 +3880,7 @@ cite {
 .theme-dark pre[class*=language-],
 .theme-light code[class*=language-],
 .theme-light pre[class*=language-] {
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding: 8px;
 }
 .markdown-preview-view code,
 .markdown-preview-view div.el-pre pre,
@@ -7861,7 +7860,6 @@ html .site-body * {
     margin-bottom: 25px;
 }
 
-
 .theme-dark :not(pre) > code[class*="language-"], .theme-dark pre[class*="language-"] {
-	border: 1px solid #ea4c67;
+	border: 1px solid var(--text-accent);
 }
